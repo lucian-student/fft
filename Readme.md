@@ -2,8 +2,6 @@ Cpu verze fft
 
 ## Fourier series
 
-
-
 ## Fourier analysis
 
 Prý aproximace obecných funkcí -> sumou trigonometrických funkcí funkcí 
